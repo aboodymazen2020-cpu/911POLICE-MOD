@@ -1,0 +1,11 @@
+{
+  "name": "police-activation",
+  "version": "1.0.0",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "node-fetch": "^2.6.7",
+    "discord.js": "^14.14.1"
+  }
+}
